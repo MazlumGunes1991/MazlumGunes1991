@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mazlum.
 - 👀 I’m interested in Frontend Web Development.
-- 🌱 I’m currently learning HTML5, CSS3, Bootstrap 4 and 5, JavaScript and React.js at Udemy and Dev.Patika.
+- 🌱 I’m currently learning HTML5, CSS3, Bootstrap 4 and 5, JavaScript, JQuery and PHP at Udemy and Dev.Patika.
 - 👨‍💻  All of my projects are available at https://github.com/MazlumGunes1991?tab=repositories
 - 💬 Ask me about HTML,CSS,Bootstrap,Git,JavaScript.
 - 💞️ I’m looking to collaborate on Frontend Web Development projects.
